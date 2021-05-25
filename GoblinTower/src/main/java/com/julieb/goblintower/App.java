@@ -38,9 +38,6 @@ public class App {
             if (option == 1){
                 stepCount += 1;
                 
-                //TEST
-                System.out.println(rand);
-
                 //randomize fight and goblin
                 if(rand == 1){ 
                     //spawn goblin 
